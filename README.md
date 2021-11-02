@@ -2,7 +2,6 @@
 A Network Protocol for online XR functionality
 
 Mission Statement:
-
 To create an open-source, decentralized protocol standard for 
 online XR usage, and usage of XR applications within a browser, with game-like
 speed. This protocol, (XR:// or HCTP://) will utilize existing API's like OpenXR
